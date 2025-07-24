@@ -1,5 +1,6 @@
 A simple and efficient Next Word Prediction model using N-gram language modeling techniques, implemented in Python. 
 This project demonstrates how predictive text engines (like those in keyboards or search engines) can suggest the next most probable word given a context.
+
 **Features**
 - Trains a next word prediction model using unigrams, bigrams, and trigrams.
 
